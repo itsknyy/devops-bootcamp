@@ -4,13 +4,13 @@
 
 1. *sudo apt update is executed — this updates the list of available software packages from online sources. The sudo part gives administrative permission, apt is the package manager and update refreshes the local database.*
 
---
+---
 
 ![Screenshot-4](../screenshots/4.png)
 
 1. *sudo apt install htop is executed — this starts the installation of htop, an interactive process viewer for Linux. The sudo command gives administrative privileges.*
 
---
+---
 
 ![Screenshot-5](../screenshots/5.png)
 

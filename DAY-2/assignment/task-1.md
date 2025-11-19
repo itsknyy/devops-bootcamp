@@ -14,7 +14,7 @@
 
 6. *Finally, another tree command shows the updated full structure, now including config and logs alongside projects inside devops-lab.*
 
---
+---
 
 ![Screenshot-2](../screenshots/2.png)
 
