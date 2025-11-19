@@ -1,6 +1,6 @@
 # Linux Command Line Basics
 
-![Screenshot-1](../screenshots/1.png)
+- ![Screenshot-1](../screenshots/1.png)
 
 1. *mkdir -p devops-lab/projects/{app1,app2} is executed — this creates a directory structure with devops-lab/projects, and inside it, two subdirectories: app1 and app2. The -p flag ensures that parent directories are created if they don't exist, and the {app1,app2} syntax creates both folders in one command.*
 
@@ -16,7 +16,7 @@
 
 ---
 
-![Screenshot-2](../screenshots/2.png)
+- ![Screenshot-2](../screenshots/2.png)
 
 1. *touch devops-lab/projects/app1/README.md is executed — this creates an empty file named README.md inside the app1 directory.*
 
