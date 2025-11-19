@@ -14,6 +14,7 @@
 
 6. *Finally, another tree command shows the updated full structure, now including config and logs alongside projects inside devops-lab.*
 
+--
 
 ![Screenshot-2](../screenshots/2.png)
 
@@ -28,3 +29,5 @@
 5. *The user then runs ls -a devops-lab/ — this lists all files and directories in devops-lab, including hidden ones (those starting with a dot). The output shows config, logs, projects, and hidden entries like . and ...*
 
 6. *Finally, ls -la devops-lab/ is executed — this displays detailed information (permissions, owner, size, and modification date) for all items in devops-lab.*
+
+---
