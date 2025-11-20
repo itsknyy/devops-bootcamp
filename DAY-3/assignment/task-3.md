@@ -4,7 +4,7 @@
 
 ---
 
-![task-2a](../images/task-2a.png)
+![task-3a](../images/task-3a.png)
 
     ls -ld source/ =  Shows detailed info (permissions, owner, group) of the source directory only.
 
@@ -17,7 +17,7 @@
 
 ---
 
-![task-2b](../images/task-2b.png)
+![task-3b](../images/task-3b.png)
 
     nano /etc/bashrc
 
@@ -31,7 +31,7 @@
 
 ---
 
-![task-2c](../images/task-2c.png)
+![task-3c](../images/task-3c.png)
 
     chmod 3770 logs/ =  sets the following permissions:
     - 3 = SUID + sticky bit
@@ -46,7 +46,7 @@
 
 ---
 
-![task-2d](../images/task-2d.png)
+![task-3d](../images/task-3d.png)
 
     chmod 4750 deploy.sh = 
     - 4 = SUID (script runs with the owner's permissions)
@@ -56,7 +56,7 @@
 
 ---
 
-![task-2e](../images/task-2e.png)
+![task-3e](../images/task-3e.png)
 
     chmod 2770 shared/ = 
     - 2 = setgid (new files inherit the group devteam)
