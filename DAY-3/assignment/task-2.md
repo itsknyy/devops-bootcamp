@@ -6,10 +6,5 @@
 
 ![task-2a](../images/task-2a.png)
 
-`For sudo mkdir -p /var/www/project`
-     
-    -p → creates the full path, including parent folders if they don’t exist
-
-`For sudo mkdir source logs scripts shared`
+    -p : option that creates parent directories if they don’t exist
     
-    Creates four directories inside the project folder together.
