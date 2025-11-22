@@ -41,8 +41,8 @@
 
     ls -ld logs/ = shows the updated permission of logs
 
-    t = sticky bit + others can enter the directory
-    T = sticky bit + others cannot enter the directory
+    t = Sticky bit + others can enter the directory (x present)
+    T = Sticky bit + others cannot enter the directory (x not present)
 
 ---
 
