@@ -1,10 +1,10 @@
 # Task
 
-![task-1](../images/task)
+![task-1](../images/task.png)
 
 ---
 
-![image-1](../images/image-1 [PID])
+![image-1](../images/image-1[PID].png)
 
 `top=$( ... )`
 - Creates a variable named top
